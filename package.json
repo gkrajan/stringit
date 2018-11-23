@@ -1,0 +1,22 @@
+{
+  "name": "stringit",
+  "version": "1.0.0",
+  "description": "cli twitter client",
+  "bin": {
+    "stringit": "./bin/stringit.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gkrajan/stringit.git"
+  },
+  "author": "gkr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gkrajan/stringit/issues"
+  },
+  "homepage": "https://github.com/gkrajan/stringit#readme"
+}
